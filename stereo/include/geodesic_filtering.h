@@ -1,6 +1,4 @@
-/**@copyright 2017 Horizon-Robotics Inc. All Rights Reserved.
- * @author Jiatian Wu (jiatian1@andrew.cmu.edu)
- *
+/**
  * @file geodesic_filtering.h
  * @brief geodesic_filtering.h
  */

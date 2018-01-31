@@ -1,6 +1,4 @@
-/*@copyright 2017 Horizon-Robotics Inc. All Rights Reserved.
- * @author Degang Yang (degang.yang@horizon-robotics.com)
- *
+/**
  * @file test_sgm.cpp
  * @brief test_sgm.cpp
  */

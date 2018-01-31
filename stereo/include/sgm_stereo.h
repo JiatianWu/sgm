@@ -1,6 +1,4 @@
-/**@copyright 2017 Horizon-Robotics Inc. All Rights Reserved.
- * @author Jiatian Wu (jiatian1@andrew.cmu.edu)
- *
+/**
  * @file sgm_stereo.h
  * @brief SGM based stereo for autonomous driving platform
  *        recursive filtering based post-refinement

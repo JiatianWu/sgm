@@ -1,6 +1,4 @@
-/**@copyright 2016 Horizon-Robotics Inc. All Rights Reserved.
- * @author Degang Yang (degang.yang@horizon-robotics.com)
- *
+/**
  * @file test_utility.h
  * @brief test_utility.h
  */

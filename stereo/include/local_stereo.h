@@ -1,5 +1,4 @@
-/**@copyright 2017 Horizon-Robotics Inc. All Rights Reserved.
- * @author Jiatian Wu (jiatian1@andrew.cmu.edu)
+/**
  *
  * @file local_stereo.h
  * @brief multi-scale + multi box agggre + disparity propagation
